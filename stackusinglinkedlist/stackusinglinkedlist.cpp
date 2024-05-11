@@ -63,3 +63,9 @@ public:
 	}
 
 };
+
+int main() {
+	Stack stack;
+
+	int choice = 0;
+	int value;
